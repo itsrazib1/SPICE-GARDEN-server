@@ -1,0 +1,57 @@
+[
+    {
+      "id": "1",
+      "chefPicture": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?w=740&t=st=1682974940~exp=1682975540~hmac=7b16e83aa45894fce9f3aff94d0e1fab56c31e7ed767037607196b2433316872",
+      "chefName": "John Smith",
+      "yearsOfExperience": 10,
+      "numberOfRecipes": 50,
+      "likes": 1000,
+      "chefBio": "John Smith is a renowned chef with over 10 years of experience in the culinary arts. He has worked in some of the best restaurants around the world and has won several awards for his innovative and delicious dishes."
+    },
+    {
+      "id": "2",
+      "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?w=740&t=st=1682974822~exp=1682975422~hmac=c7b887e31918fd86a89d7d768b8e69ef5c80ecd8712323484c992e4453d22bc4",
+      "chefName": "Mary Johnson",
+      "yearsOfExperience": 15,
+      "numberOfRecipes": 75,
+      "likes": 2000,
+      "chefBio": "Mary Johnson is a highly skilled chef with over 15 years of experience in the industry. She specializes in French cuisine and has worked in some of the most prestigious restaurants in Paris."
+    },
+    {
+      "id": "3",
+      "chefPicture": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?w=740&t=st=1682974854~exp=1682975454~hmac=fce8a7e4b792a2be0b391ea3489ee061c2d5f5b475c3bbaf8af1d83af47eb633",
+      "chefName": "Linda Lee",
+      "yearsOfExperience": 8,
+      "numberOfRecipes": 40,
+      "likes": 500,
+      "chefBio": "David Lee is a rising star in the culinary world. He has worked in some of the most creative and cutting-edge restaurants in New York City, and his dishes are known for their bold flavors and unique presentation."
+    },
+    {
+      "id": "4",
+      "chefPicture": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?w=740&t=st=1682974883~exp=1682975483~hmac=de0ca9717748f9641b90d3f69187f675cb1f6a81b87353a7b7c0e86c177d82d9",
+      "chefName": "Samantha Chen",
+      "yearsOfExperience": 12,
+      "numberOfRecipes": 60,
+      "likes": 1500,
+      "chefBio": "Samantha Chen is a talented chef with a passion for fusion cuisine. She has traveled extensively throughout Asia, Europe, and North America, and her dishes are inspired by the diverse cultures and flavors she has encountered on her journeys."
+    },
+    {
+      "id": "5",
+      "chefPicture": "https://img.freepik.com/free-photo/portrait-smiling-chef-uniform_329181-675.jpg?w=740&t=st=1682974902~exp=1682975502~hmac=0269af1635785b76fe74134d35082600fbc60f6814e67e1f3eb9c371da0b1da4",
+      "chefName": "Michael Kim",
+      "yearsOfExperience": 20,
+      "numberOfRecipes": 100,
+      "likes": 5000,
+      "chefBio": "Michael Kim is a seasoned chef with over 20 years of experience in the industry. He has worked in some of the most iconic restaurants in the world, and his dishes are known for their exquisite taste and presentation."
+    },
+    {
+      "id": "6",
+      "chefPicture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-showing-thumbs-up_171337-5330.jpg?w=740&t=st=1682974916~exp=1682975516~hmac=49f64e89fc32ca358f12ed206020c9ff3ba1079bb1e083d8b3def7be50c38953",
+      "chefName": "Sophie Martinez",
+      "yearsOfExperience": 5,
+      "numberOfRecipes": 30,
+      "likes": 250,
+      "chefBio": "Sophie Martinez is a young and talented chef who is quickly making a name for herself in the culinary world. She specializes in plant-based cuisine and is passionate about using fresh, locally sourced ingredients in her dishes."
+    }
+  ]
+  
