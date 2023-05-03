@@ -54,12 +54,12 @@
   },
   {
     "chef_id": 2,
-    "chef_name": "Chef Maria",
+    "chef_name": "Nusrat Jahan Mim",
     "years_of_experience": 10,
     "num_of_recipes": 80,
     "likes": 3500,
     "description": "Chef Maria is a skilled chef with 10 years of experience and 80 unique recipes. Her delicious dishes have gained the appreciation of many, as evidenced by her impressive 3500 likes.",
-    "chef_picture": "https://i.ibb.co/cw8L8fY/Chef-Maria.jpg",
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/284408347_530087402100484_3518046010659356480_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=174925&_nc_eui2=AeG3gQCLiDSmAFYuLpaRr9xuGR8KgrmK7aEZHwqCuYrtoX-0ADBXc9zplAlohqRIwTlaVtIsQMQRnKlc4hdy5FyC&_nc_ohc=zatZIwg77WgAX_x48g8&_nc_ht=scontent.fdac135-1.fna&oh=00_AfD8QFBAuTsecMUcPHIC0MpSpnBOJKEZmsb8dZ12rMJiug&oe=6457561F",
     "recipes": [
       {
         "recipe_id": 4,
@@ -107,12 +107,12 @@
   },
   {
     "chef_id": 3,
-    "chef_name": "Gordon Ramsay",
+    "chef_name": "Jannatul Ferdousi Sinfa",
     "years_of_experience": 30,
     "num_of_recipes": 200,
     "likes": 10000,
     "description": "Gordon Ramsay, a celebrated chef with 30 years of experience and over 200 recipes to his name, has garnered a massive following of 10,000 likes. Known for his fiery personality and expertise in the kitchen, Ramsay has become a household name in the culinary world.",
-    "chef_picture": "https://i.ibb.co/zFn4NZc/Gordon-Ramsay.jpg",
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/315911295_826666368660472_5789359862944266159_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeGQ3H7S8RdsG9zZ8KlaqHNc-IDTgquntRv4gNOCq6e1GxeiQr4K3I5SFk08pxWW-BFq2safxO9C1ZEZn2hhmQoY&_nc_ohc=nvQ-xIV7choAX_mkG8S&_nc_ht=scontent.fdac135-1.fna&oh=00_AfDYhOG1UImRqSDF5Mx0e0h0S28hPE5eMCLWrIvGFNSfxw&oe=64580963",
     "recipes": [
       {
         "recipe_id": 7,
@@ -163,12 +163,12 @@
   },
   {
     "chef_id": 4,
-    "chef_name": "Bobby Flay",
+    "chef_name": "Chowa Moni",
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
     "description": "Bobby Flay, a renowned American chef, boasts of 25 years of experience in the culinary industry. With over 150 delicious recipes under his belt, he has gained immense popularity among food enthusiasts worldwide, amassing over 8000 likes.",
-    "chef_picture": "https://i.ibb.co/sWpn093/Bobby-Flay.jpg",
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/343060647_154072827620788_5259563459438957232_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=8bfeb9&_nc_eui2=AeE4y82Zrhv6umdy3M8WvSTQ2gZk4_Ox5r7aBmTj87HmvrDSZbY69iyF6b070UTLLhcW2OjdtxGJVorpHLyFmDCw&_nc_ohc=JkGyKygtH6kAX8AtiK0&_nc_ht=scontent.fdac135-1.fna&oh=00_AfDGVePpXWrYQ2LQcL8BdiWU4T-YSDIm2aCYZ46nAaR79g&oe=6457C34C",
     "recipes": [
       {
         "recipe_id": 10,
@@ -222,12 +222,12 @@
   },
   {
     "chef_id": 5,
-    "chef_name": "Ina Garten",
+    "chef_name": "Shrabon Tambuli",
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
     "description": "Ina Garten is a celebrated American chef, cookbook author, and TV host with over 25 years of experience in the culinary industry. Her impressive collection of 150 recipes features classic dishes with a modern twist that are easy to prepare at home.",
-    "chef_picture": "https://i.ibb.co/XC3Pvd8/Ina-Garten.jpg",
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-1/327760207_1379562452812018_5862478558459318978_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-7&_nc_sid=7206a8&_nc_eui2=AeEQNXL0H8RfaTiHD-3Kv9AB964qtm-sFd33riq2b6wV3RAa8FcUYDI1XqdQtwWZlDmo8W3N6u22qs7h0AB8LZ-o&_nc_ohc=T3dIpD7hdLwAX9b9-Qa&_nc_ht=scontent.fdac135-1.fna&oh=00_AfCYCgJCJTSXuuO2dqeL4yeP4eY9CKHyHMGbAA80WJlekQ&oe=6456CE13",
     "recipes": [
       {
         "recipe_id": 13,
@@ -281,12 +281,12 @@
   },
   {
     "chef_id": 6,
-    "chef_name": "Samantha Lee",
+    "chef_name": "Sabbir Ahmed Nayeem",
     "years_of_experience": 25,
     "num_of_recipes": 150,
     "likes": 8000,
     "description": "Samantha Lee is a renowned chef with 25 years of experience in the culinary world. She has crafted 150 delectable recipes that have won over the hearts and stomachs of many. Her innovative and unique style of cooking has earned her a loyal following of food enthusiasts who eagerly await her next creation",
-    "chef_picture": "https://i.ibb.co/4tFkPhN/Samantha-Lee.webp",
+    "chef_picture": "https://scontent.fdac135-1.fna.fbcdn.net/v/t39.30808-6/278868910_1063862614164247_3083745799007983617_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeHdnhpXwu0RlPJdXaLGoBZzhj1_k2z63zWGPX-TbPrfNYvmUZv9rTBnRzsNjRpRlk3FtYuuCWVUNOiocoz24aAw&_nc_ohc=8RcOIB8ZWn8AX-YLRzI&_nc_ht=scontent.fdac135-1.fna&oh=00_AfAOK8OOus39Fesk4fvZUoUyenTXrcD5BPVqNfPIuEO9Ng&oe=6457856F",
     "recipes": [
       {
         "recipe_id": 16,
