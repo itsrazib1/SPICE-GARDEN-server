@@ -1,0 +1,348 @@
+[
+  {
+    "chef_id": 1,
+    "chef_name": "Chef John",
+    "years_of_experience": 15,
+    "num_of_recipes": 100,
+    "likes": 5000,
+    "description": "Chef John is an experienced chef with 15 years of culinary experience. He has created 100 delicious recipes that have satisfied many hungry stomachs.",
+    "chef_picture": "https://i.ibb.co/qpcmrBM/John.jpg",
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_url": "https://i.ibb.co/ysT17q2/Classic-Lasagna.jpg",
+        "recipe_name": "Classic Lasagna",
+        "ingredients": [
+          "Lasagna noodles",
+          "Ground beef",
+          "Tomato sauce",
+          "Ricotta cheese",
+          "Mozzarella cheese"
+        ],
+        "cooking_method": "1. Cook noodles. 2. Brown beef. 3. Combine sauce and beef. 4. Layer noodles, sauce, and cheese. 5. Bake.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 2,
+        "recipe_url": "https://i.ibb.co/hLk3hyc/Beef-Wellington.jpg",
+        "recipe_name": "Beef Wellington",
+        "ingredients": [
+          "Beef tenderloin",
+          "Mushrooms",
+          "Puff pastry",
+          "Egg wash",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Season and sear beef. 2. Saute mushrooms. 3. Wrap beef and mushrooms in puff pastry. 4. Brush with egg wash. 5. Bake.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 3,
+        "recipe_url": "https://i.ibb.co/CKSVSPm/Chicken-Parmesan.webp",
+        "recipe_name": "Chicken Parmesan",
+        "ingredients": [
+          "Chicken breasts",
+          "Breadcrumbs",
+          "Tomato sauce",
+          "Mozzarella cheese",
+          "Parmesan cheese"
+        ],
+        "cooking_method": "1. Coat chicken in breadcrumbs. 2. Brown chicken. 3. Top with sauce and cheese. 4. Bake.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_id": 2,
+    "chef_name": "Chef Maria",
+    "years_of_experience": 10,
+    "num_of_recipes": 80,
+    "likes": 3500,
+    "description": "Chef Maria is a skilled chef with 10 years of experience and 80 unique recipes. Her delicious dishes have gained the appreciation of many, as evidenced by her impressive 3500 likes.",
+    "chef_picture": "https://i.ibb.co/cw8L8fY/Chef-Maria.jpg",
+    "recipes": [
+      {
+        "recipe_id": 4,
+        "recipe_url": "https://i.ibb.co/sVWCQzw/Roasted-Garlic-Mashed-Potatoes.jpg",
+        "recipe_name": "Roasted Garlic Mashed Potatoes",
+        "ingredients": [
+          "Potatoes",
+          "Butter",
+          "Milk",
+          "Garlic",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Roast garlic. 2. Boil and mash potatoes. 3. Add butter, milk, and garlic. 4. Season to taste.",
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 5,
+        "recipe_url": "https://i.ibb.co/MBTBnyL/Spinach-and-Feta-Stuffed-Chicken.webp",
+        "recipe_name": "Spinach and Feta Stuffed Chicken",
+        "ingredients": [
+          "Chicken breasts",
+          "Spinach",
+          "Feta cheese",
+          "Garlic",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Stuff chicken with spinach and feta. 2. Season chicken. 3. Bake.",
+        "rating": 4.4
+      },
+      {
+        "recipe_id": 6,
+        "recipe_url": "https://i.ibb.co/BVXdvGJ/Pesto-Pasta-Salad.jpg",
+        "recipe_name": "Pesto Pasta Salad",
+        "ingredients": [
+          "Pasta",
+          "Pesto sauce",
+          "Cherry tomatoes",
+          "Mozzarella cheese",
+          "Olives"
+        ],
+        "cooking_method": "1. Cook pasta. 2. Combine with pesto sauce, tomatoes, cheese, and olives. 3. Toss together and serve hot or cold",
+        "rating": 4.4
+      }
+    ]
+  },
+  {
+    "chef_id": 3,
+    "chef_name": "Gordon Ramsay",
+    "years_of_experience": 30,
+    "num_of_recipes": 200,
+    "likes": 10000,
+    "description": "Gordon Ramsay, a celebrated chef with 30 years of experience and over 200 recipes to his name, has garnered a massive following of 10,000 likes. Known for his fiery personality and expertise in the kitchen, Ramsay has become a household name in the culinary world.",
+    "chef_picture": "https://i.ibb.co/zFn4NZc/Gordon-Ramsay.jpg",
+    "recipes": [
+      {
+        "recipe_id": 7,
+        "recipe_url": "https://i.ibb.co/NTQvPGJ/New-York-Strip-Steak-with-Red-Wine-Sauce.jpg",
+        "recipe_name": "New York Strip Steak with Red Wine Sauce",
+        "ingredients": [
+          "New York strip steak",
+          "Salt and pepper",
+          "Olive oil",
+          "Butter",
+          "Garlic",
+          "Thyme",
+          "Red wine",
+          "Beef stock"
+        ],
+        "cooking_method": "1. Season steak with salt and pepper. 2. Heat olive oil and butter in a skillet. 3. Add garlic and thyme. 4. Add steak and cook until desired doneness. 5. Remove steak from skillet and let rest. 6. Add red wine to skillet and reduce. 7. Add beef stock and simmer until thickened. 8. Serve sauce over steak.",
+        "rating": 4.8
+      },
+      {
+        "recipe_id": 8,
+        "recipe_url": "https://i.ibb.co/tLGmDjr/Grilled-Salmon-with-Dill-Butter.jpg",
+        "recipe_name": "Grilled Salmon with Dill Butter",
+        "ingredients": [
+          "Salmon fillet",
+          "Olive oil",
+          "Salt and pepper",
+          "Butter",
+          "Fresh dill"
+        ],
+        "cooking_method": "1. Brush salmon with olive oil. 2. Season with salt and pepper. 3. Grill until cooked through. 4. In a small saucepan, melt butter and add fresh dill. 5. Serve dill butter over grilled salmon.",
+        "rating": 4.5
+      },
+      {
+        "recipe_id": 9,
+        "recipe_url": "https://i.ibb.co/6RXSKJ0/Beef-Burger.webp",
+        "recipe_name": "Beef Burger",
+        "ingredients": [
+          "Ground beef",
+          "Burger buns",
+          "Lettuce",
+          "Tomato",
+          "Cheese"
+        ],
+        "cooking_method": "1. Form beef into patties. 2. Grill until cooked through. 3. Assemble burgers with lettuce, tomato, and cheese.",
+        "rating": 4.7
+      }
+    ]
+  },
+  {
+    "chef_id": 4,
+    "chef_name": "Bobby Flay",
+    "years_of_experience": 25,
+    "num_of_recipes": 150,
+    "likes": 8000,
+    "description": "Bobby Flay, a renowned American chef, boasts of 25 years of experience in the culinary industry. With over 150 delicious recipes under his belt, he has gained immense popularity among food enthusiasts worldwide, amassing over 8000 likes.",
+    "chef_picture": "https://i.ibb.co/sWpn093/Bobby-Flay.jpg",
+    "recipes": [
+      {
+        "recipe_id": 10,
+        "recipe_url": "https://i.ibb.co/fQB39V1/Barbecue-Pork-Ribs.jpg",
+        "recipe_name": "Barbecue Pork Ribs",
+        "ingredients": [
+          "Pork ribs",
+          "Barbecue sauce",
+          "Brown sugar",
+          "Paprika",
+          "Garlic powder",
+          "Onion powder",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Preheat oven to 275°F. 2. Season ribs with paprika, garlic powder, onion powder, salt and pepper. 3. Wrap ribs tightly in foil and bake for 2-2.5 hours. 4. Preheat grill to medium-high heat. 5. Baste ribs with barbecue sauce and grill for 10-15 minutes per side. 6. Serve with extra barbecue sauce.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 11,
+        "recipe_url": "https://i.ibb.co/YNNZqYF/Mac-and-Cheese.jpg",
+        "recipe_name": "Mac and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Monterey Jack cheese",
+          "Salt and pepper"
+        ],
+        "cooking_method": "1. Cook macaroni according to package instructions. 2. In a saucepan, melt butter and whisk in flour. 3. Gradually whisk in milk until smooth. 4. Add cheeses and stir until melted. 5. Season with salt and pepper. 6. Stir in cooked macaroni. 7. Serve hot.",
+        "rating": 4.6
+      },
+      {
+        "recipe_id": 12,
+        "recipe_url": "https://i.ibb.co/QXtQjTW/Fried-Chicken.png",
+        "recipe_name": "Fried Chicken",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Flour",
+          "Salt and pepper",
+          "Paprika",
+          "Garlic powder",
+          "Vegetable oil"
+        ],
+        "cooking_method": "1. Soak chicken pieces in buttermilk for at least 30 minutes. 2. In a shallow dish, mix together flour, salt, pepper, paprika and garlic powder. 3. Heat oil in a large skillet over medium-high heat. 4. Dredge chicken pieces in flour mixture and shake off excess. 5. Fry chicken in hot oil until golden brown and cooked through, about 5-7 minutes per side. 6. Drain on paper towels. 7. Serve hot.",
+        "rating": 4.8
+      }
+    ]
+  },
+  {
+    "chef_id": 5,
+    "chef_name": "Ina Garten",
+    "years_of_experience": 25,
+    "num_of_recipes": 150,
+    "likes": 8000,
+    "description": "Ina Garten is a celebrated American chef, cookbook author, and TV host with over 25 years of experience in the culinary industry. Her impressive collection of 150 recipes features classic dishes with a modern twist that are easy to prepare at home.",
+    "chef_picture": "https://i.ibb.co/XC3Pvd8/Ina-Garten.jpg",
+    "recipes": [
+      {
+        "recipe_id": 13,
+        "recipe_url": "https://i.ibb.co/Rhv98Hm/Roast-Turkey.jpg",
+        "recipe_name": "Roast Turkey",
+        "ingredients": [
+          "Turkey",
+          "Salt and pepper",
+          "Butter",
+          "Garlic",
+          "Thyme",
+          "Onion",
+          "Carrot",
+          "Celery"
+        ],
+        "cooking_method": "1. Preheat oven to 325 degrees F. 2. Rinse turkey and pat dry. 3. Season with salt and pepper. 4. Melt butter and add garlic and thyme. 5. Brush mixture over turkey. 6. Place onion, carrot, and celery in a roasting pan. 7. Place turkey on top of vegetables. 8. Roast for 3-4 hours or until cooked through. 9. Let turkey rest before carving.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 14,
+        "recipe_url": "https://i.ibb.co/j4d93Cf/Macaroni-and-Cheese.jpg",
+        "recipe_name": "Macaroni and Cheese",
+        "ingredients": [
+          "Elbow macaroni",
+          "Butter",
+          "Flour",
+          "Milk",
+          "Cheddar cheese",
+          "Parmesan cheese",
+          "Salt and pepper",
+          "Breadcrumbs"
+        ],
+        "cooking_method": "1. Cook macaroni according to package directions. 2. In a saucepan, melt butter and whisk in flour. 3. Slowly add milk and whisk until thickened. 4. Add cheddar and Parmesan cheeses and whisk until melted. 5. Season with salt and pepper. 6. Add cooked macaroni to the sauce and mix. 7. Transfer to a baking dish and top with breadcrumbs. 8. Bake until golden brown.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 15,
+        "recipe_url": "https://i.ibb.co/pyfcmM2/Grilled-Ribeye-Steak.jpg",
+        "recipe_name": "Grilled Ribeye Steak",
+        "ingredients": [
+          "Ribeye steak",
+          "Salt and pepper",
+          "Olive oil",
+          "Rosemary",
+          "Garlic"
+        ],
+        "cooking_method": "1. Season steak with salt and pepper. 2. Brush with olive oil. 3. Grill over high heat until desired doneness. 4. Let rest for a few minutes before slicing. 5. Garnish with rosemary.",
+        "rating": 4.9
+      }
+    ]
+  },
+  {
+    "chef_id": 6,
+    "chef_name": "Samantha Lee",
+    "years_of_experience": 25,
+    "num_of_recipes": 150,
+    "likes": 8000,
+    "description": "Samantha Lee is a renowned chef with 25 years of experience in the culinary world. She has crafted 150 delectable recipes that have won over the hearts and stomachs of many. Her innovative and unique style of cooking has earned her a loyal following of food enthusiasts who eagerly await her next creation",
+    "chef_picture": "https://i.ibb.co/4tFkPhN/Samantha-Lee.webp",
+    "recipes": [
+      {
+        "recipe_id": 16,
+        "recipe_url": "https://i.ibb.co/NV7Mv8S/Buttermilk-Fried-Chicken.jpg",
+        "recipe_name": "Buttermilk Fried Chicken",
+        "ingredients": [
+          "Chicken pieces",
+          "Buttermilk",
+          "Hot sauce",
+          "Flour",
+          "Paprika",
+          "Cayenne pepper",
+          "Garlic powder",
+          "Salt",
+          "Pepper",
+          "Oil for frying"
+        ],
+        "cooking_method": "1. Marinate chicken in buttermilk and hot sauce. 2. Combine flour, paprika, cayenne pepper, garlic powder, salt, and pepper in a shallow dish. 3. Dredge chicken in flour mixture. 4. Heat oil in a deep skillet or Dutch oven. 5. Fry chicken until golden brown and cooked through.",
+        "rating": 4.9
+      },
+      {
+        "recipe_id": 17,
+        "recipe_url": "https://i.ibb.co/RD9GBDf/Shrimp-Scampi.jpg",
+        "recipe_name": "Shrimp Scampi",
+        "ingredients": [
+          "Shrimp",
+          "Garlic",
+          "Lemon",
+          "White wine",
+          "Butter",
+          "Olive oil",
+          "Parsley",
+          "Salt",
+          "Pepper"
+        ],
+        "cooking_method": "1. Heat butter and olive oil in a large skillet. 2. Add garlic and cook until fragrant. 3. Add shrimp and cook until pink. 4. Add white wine and lemon juice. 5. Season with salt and pepper. 6. Serve with parsley and crusty bread.",
+        "rating": 4.7
+      },
+      {
+        "recipe_id": 18,
+        "recipe_url": "https://i.ibb.co/51StNHm/Lobster-Risotto.jpg",
+        "recipe_name": "Lobster Risotto",
+        "ingredients": [
+          "Lobster",
+          "Arborio rice",
+          "Shallot",
+          "Garlic",
+          "White wine",
+          "Chicken stock",
+          "Parmesan cheese",
+          "Butter",
+          "Chives"
+        ],
+        "cooking_method": "1. Cook lobster in boiling water for 8-10 minutes. 2. Remove meat from shells and set aside. 3. In a separate pot, sauté shallot and garlic in butter. 4. Add Arborio rice and cook until translucent. 5. Add white wine and cook until evaporated. 6. Gradually add chicken stock, stirring constantly, until rice is cooked. 7. Add Parmesan cheese and butter. 8. Serve risotto with lobster meat and chopped chives.",
+        "rating": 4.7
+      }
+    ]
+  }
+]
