@@ -11,7 +11,7 @@ app.use(cors());
 app.get('/', (req, res) => {
   res.send('Chef Recipe data is running');
 });
-app.get('/recipes', (req, res) => {
+app.get('/chefRecipes', (req, res) => {
   res.send(chefData);
 });
 app.get('/slides', (req, res) => {
@@ -21,7 +21,7 @@ app.get('/chefs', (req, res) => {
   res.send(chefServer);
 });
 
-app.get('/recipes/:id', (req, res) => {
+app.get('/chefRecipes/:id', (req, res) => {
   const id = req.params.id;
   const item = chefData.find((pd) => pd.id === id);
   if (!item) {
